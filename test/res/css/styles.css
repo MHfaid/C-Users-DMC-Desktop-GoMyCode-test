@@ -1,0 +1,32 @@
+.title
+{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+    
+    
+}
+form{
+    font-weight: bold;
+    background-color: hsla(50, 33%, 25%, .75);
+    color: #fff;
+    padding: .5em;
+}
+.nav
+{
+    
+}
+.section
+{
+    text-align: center;
+}
+.div
+{
+    text-align: center;
+}
+.footer
+{
+    text-align: center;
+}
