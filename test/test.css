@@ -24,10 +24,16 @@ nav ul li a
 .accueil
 {
  background-color: antiquewhite;
- border-radius: 20px; 
+ border-radius: 10px; 
 }
 #titre-accueil
 {
     text-align: center;
     font-size: 70px;
+}
+form{
+    font-weight: bold;
+    background-color: hsla(50, 33%, 25%, .75);
+    color: #fff;
+    padding: .5em;
 }
