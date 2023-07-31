@@ -1,9 +1,6 @@
 header
 {
-    display: flex; 
-    list-style: none;
-    margin-top: 35px;
-
+    justify-content: space-around;
 }
 header div img
 {
@@ -12,7 +9,9 @@ header div img
 }
 nav ul
 {
-   
+    display: flex; 
+    list-style: none;
+    margin-top: 35px;
 }
 nav ul li a
 {
@@ -21,16 +20,12 @@ nav ul li a
     color: black;
     font-size: 20px;
 }
-.accueil
+.accueil 
 {
  background-color: antiquewhite;
  border-radius: 10px; 
 }
-#titre-accueil
-{
-    text-align: center;
-    font-size: 70px;
-}
+
 form{
     font-weight: bold;
     background-color: hsla(50, 33%, 25%, .75);
